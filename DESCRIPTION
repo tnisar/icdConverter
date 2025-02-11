@@ -1,0 +1,10 @@
+Package: icdConverter
+Title: Convert ICD-9/IDC10 Codes to Standard Decimal Format
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tariq", "Nisar", , "tariq566@gmail.com", role = c("aut", "cre"))
+Description: The icdConverter package is a lightweight and efficient tool designed to convert ICD-10 codes into their standard decimal format, making it ideal for use in national databases and other healthcare datasets. By transforming codes such as "A010" into "A01.0", the package ensures compatibility with standardized data formats required by many healthcare systems. Its simplicity and focus on core functionality make it a reliable choice for researchers, data analysts, and healthcare professionals. One of the key advantages of icdConverter is its lack of external dependencies, ensuring easy installation and seamless integration into existing workflows. This makes it particularly suitable for environments with strict software restrictions or limited computational resources. The package is designed to handle large datasets efficiently, enabling users to process thousands of ICD-10 codes quickly and accurately. Developed by Tariq Nsiar, icdConverter is a user-friendly solution for standardizing ICD-10 codes, a critical step in preparing data for analysis or submission to national databases. Its intuitive design and robust functionality make it accessible to users of all skill levels, from beginners to advanced programmers. By providing a dependency-free tool, Tariq Nsiar has created a valuable resource for the healthcare and research communities.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
